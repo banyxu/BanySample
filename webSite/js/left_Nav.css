@@ -1,0 +1,50 @@
+﻿#left_menu
+{
+    position: absolute;
+    width: 50px;
+    top: 20px;
+    left: 10px;
+}
+
+#left_nav
+{
+    width: 300px;
+    padding-top: 30px;
+    height: 800px;
+    display: none;
+}
+
+#left_image
+{
+    height: 100%;
+    width: 300px;
+}
+/* basic style */
+.close
+{
+    /* still bad on picking color orange*/
+    background: rgba(80,80,82,1);
+    color: rgba(242,141,11,1); /*red;*/
+    /* make a round button */
+    border-radius: 12px;
+    /* center text */
+    line-height: 20px;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    font-size: 18px;
+    padding: 1px;
+    cursor:pointer;
+}
+    /* use cross as close button */
+    .close::before
+    {
+        content: "\2716";
+    }
+/* place the button on top-right */
+.close
+{
+    top: 5px;
+    right: 5px;
+    position: absolute;
+}

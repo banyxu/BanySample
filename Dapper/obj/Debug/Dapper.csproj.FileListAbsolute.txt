@@ -1,0 +1,4 @@
+F:\bany\sample\BanySample\Dapper\bin\Debug\Dapper.dll
+F:\bany\sample\BanySample\Dapper\bin\Debug\Dapper.pdb
+F:\bany\sample\BanySample\Dapper\obj\Debug\Dapper.dll
+F:\bany\sample\BanySample\Dapper\obj\Debug\Dapper.pdb

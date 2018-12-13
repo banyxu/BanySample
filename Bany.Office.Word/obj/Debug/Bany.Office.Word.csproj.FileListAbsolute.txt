@@ -1,0 +1,3 @@
+F:\bany\sample\BanySample\Bany.Office.Word\obj\Debug\Bany.Office.Word.csprojResolveAssemblyReference.cache
+F:\bany\sample\BanySample\Bany.Office.Word\obj\Debug\Interop.Office.dll
+F:\bany\sample\BanySample\Bany.Office.Word\obj\Debug\Bany.Office.Word.csproj.ResolveComReference.cache

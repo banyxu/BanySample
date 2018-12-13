@@ -1,0 +1,9 @@
+F:\bany\sample\BanySample\CSharp\bin\Debug\CSharp.exe.config
+F:\bany\sample\BanySample\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+F:\bany\sample\BanySample\CSharp\obj\Debug\CSharp.Form1.resources
+F:\bany\sample\BanySample\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+F:\bany\sample\BanySample\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache
+F:\bany\sample\BanySample\CSharp\bin\Debug\CSharp.exe
+F:\bany\sample\BanySample\CSharp\bin\Debug\CSharp.pdb
+F:\bany\sample\BanySample\CSharp\obj\Debug\CSharp.exe
+F:\bany\sample\BanySample\CSharp\obj\Debug\CSharp.pdb

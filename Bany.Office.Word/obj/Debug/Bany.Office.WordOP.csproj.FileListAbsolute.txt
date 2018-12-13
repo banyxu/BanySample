@@ -1,0 +1,10 @@
+F:\bany\sample\BanySample\Bany.Office.Word\obj\Debug\Bany.Office.WordOP.csprojResolveAssemblyReference.cache
+F:\bany\sample\BanySample\Bany.Office.Word\obj\Debug\Bany.Office.WordOP.csproj.ResolveComReference.cache
+F:\bany\sample\BanySample\Bany.Office.Word\bin\Debug\Bany.Office.WordOP.dll
+F:\bany\sample\BanySample\Bany.Office.Word\bin\Debug\Bany.Office.WordOP.pdb
+F:\bany\sample\BanySample\Bany.Office.Word\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\bany\sample\BanySample\Bany.Office.Word\bin\Debug\office.dll
+F:\bany\sample\BanySample\Bany.Office.Word\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\bany\sample\BanySample\Bany.Office.Word\bin\Debug\office.xml
+F:\bany\sample\BanySample\Bany.Office.Word\obj\Debug\Bany.Office.WordOP.dll
+F:\bany\sample\BanySample\Bany.Office.Word\obj\Debug\Bany.Office.WordOP.pdb

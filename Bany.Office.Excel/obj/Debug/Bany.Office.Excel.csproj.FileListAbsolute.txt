@@ -1,0 +1,10 @@
+F:\bany\sample\BanySample\Bany.Office.Excel\bin\Debug\Bany.Office.Excel.dll
+F:\bany\sample\BanySample\Bany.Office.Excel\bin\Debug\Bany.Office.Excel.pdb
+F:\bany\sample\BanySample\Bany.Office.Excel\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\bany\sample\BanySample\Bany.Office.Excel\bin\Debug\NPOI.dll
+F:\bany\sample\BanySample\Bany.Office.Excel\bin\Debug\NPOI.OOXML.dll
+F:\bany\sample\BanySample\Bany.Office.Excel\bin\Debug\NPOI.OpenXml4Net.dll
+F:\bany\sample\BanySample\Bany.Office.Excel\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\bany\sample\BanySample\Bany.Office.Excel\obj\Debug\Bany.Office.Excel.csprojResolveAssemblyReference.cache
+F:\bany\sample\BanySample\Bany.Office.Excel\obj\Debug\Bany.Office.Excel.dll
+F:\bany\sample\BanySample\Bany.Office.Excel\obj\Debug\Bany.Office.Excel.pdb

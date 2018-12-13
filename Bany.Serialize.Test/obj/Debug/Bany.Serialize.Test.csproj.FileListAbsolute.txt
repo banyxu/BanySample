@@ -1,0 +1,10 @@
+F:\bany\sample\BanySample\Bany.Serialize.Test\obj\Debug\Bany.Serialize.Test.csprojResolveAssemblyReference.cache
+F:\bany\sample\BanySample\Bany.Serialize.Test\obj\Debug\Bany.Serialize.Test.Form1.resources
+F:\bany\sample\BanySample\Bany.Serialize.Test\obj\Debug\Bany.Serialize.Test.Properties.Resources.resources
+F:\bany\sample\BanySample\Bany.Serialize.Test\obj\Debug\Bany.Serialize.Test.csproj.GenerateResource.Cache
+F:\bany\sample\BanySample\Bany.Serialize.Test\bin\Debug\Bany.Serialize.Test.exe
+F:\bany\sample\BanySample\Bany.Serialize.Test\bin\Debug\Bany.Serialize.Test.pdb
+F:\bany\sample\BanySample\Bany.Serialize.Test\bin\Debug\Bany.Serialize.dll
+F:\bany\sample\BanySample\Bany.Serialize.Test\bin\Debug\Bany.Serialize.pdb
+F:\bany\sample\BanySample\Bany.Serialize.Test\obj\Debug\Bany.Serialize.Test.exe
+F:\bany\sample\BanySample\Bany.Serialize.Test\obj\Debug\Bany.Serialize.Test.pdb

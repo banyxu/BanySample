@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Scripts/openlayers/ol.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/openlayers/ol.js"></script>
+<script src="~/Scripts/openlayers/proj4.js"></script>
+<script src="~/Scripts/util/Tmap.js"></script>
+<script src="~/Scripts/Home/Index.js"></script>
+<script src="~/Scripts/util/TextLayer.js"></script>
+<script src="~/Scripts/util/ariportData.js"></script>
+<script src="~/Scripts/util/IconLayer.js"></script>
+<script src="~/Scripts/util/ImageLayer.js"></script>
+<style>
+    .custom-mouse-position {
+    /*right: .5em;  update by bany */
+    left: 41em;
+    top: .5em;
+    margin: 1px;
+    padding: 0;
+    color: #FFF;
+    font-size: 100%;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    height: 1.375em;
+    width: 10em;
+    background-color: #003c88;
+    -ms-opacity: .5;
+    opacity: .5;
+    border: none;
+    -ms-border-radius: 2px;
+    border-radius: 2px;
+}
+</style>
+<h2>start to load map </h2>
+<div id="event"></div>
+<div id="map" ></div>
+
+

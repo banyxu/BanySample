@@ -1,0 +1,12 @@
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\bin\Debug\Bany.TcpSocket.Test.exe
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\bin\Debug\Bany.TcpSocket.Test.pdb
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\bin\Debug\Bany.TcpSocket.dll
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\bin\Debug\Bany.Log.dll
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\bin\Debug\Bany.TcpSocket.pdb
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\bin\Debug\Bany.Log.pdb
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\obj\Debug\Bany.TcpSocket.Test.csprojResolveAssemblyReference.cache
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\obj\Debug\Bany.TcpSocket.Test.Form1.resources
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\obj\Debug\Bany.TcpSocket.Test.Properties.Resources.resources
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\obj\Debug\Bany.TcpSocket.Test.csproj.GenerateResource.Cache
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\obj\Debug\Bany.TcpSocket.Test.exe
+F:\bany\sample\BanySample\Bany.TcpSocket.Test\obj\Debug\Bany.TcpSocket.Test.pdb

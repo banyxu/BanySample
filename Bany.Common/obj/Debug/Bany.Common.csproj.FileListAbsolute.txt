@@ -1,0 +1,5 @@
+F:\bany\sample\BanySample\Bany.Common\obj\Debug\Bany.Common.csprojResolveAssemblyReference.cache
+F:\bany\sample\BanySample\Bany.Common\bin\Debug\Bany.Common.dll
+F:\bany\sample\BanySample\Bany.Common\bin\Debug\Bany.Common.pdb
+F:\bany\sample\BanySample\Bany.Common\obj\Debug\Bany.Common.dll
+F:\bany\sample\BanySample\Bany.Common\obj\Debug\Bany.Common.pdb
